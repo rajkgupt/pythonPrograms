@@ -1,0 +1,7 @@
+TRDR_ID,SUB_DEPT_NM,EMP_FULL_NM,EMP_TYP_DESC,LEVEL_DESC,LEVEL_5,MGR_TRDR_ID
+rajkgupt,Enterprise Metrics & Analytics,Rajkumar Gupta,Employee,Vice President,India,rameshr
+tirthsac,Enterprise Metrics & Analytics,Sachin Tirth,Employee,[NULL],India,rameshr
+rameshr,Enterprise Metrics & Analytics,Ramesh Ramaswamy,Employee,Vice President,New York,anils
+anils,Enterprise Metrics & Analytics,Anil Sharma,Employee,Executive Director,New York,bobnew
+bobnew,Comms,Bob Newton,Employee,Managing Director,New York,sandip
+sandip,OpsTech,Employee,Sundeep Kriplani,Managing Director,New York,bobby
